@@ -1,2 +1,0 @@
-# Distributed-File-Messaging-Application
-Asynchronous distributed file messaging application that would enable user to send files to other user along with maintaining consensus between internal nodes using Raft Algorithm
